@@ -1,0 +1,4 @@
+# config/packages/parameters.yaml
+parameters:
+    paypal_client_id: 'YOUR_PAYPAL_CLIENT_ID'
+    paypal_secret: 'YOUR_PAYPAL_SECRET'
